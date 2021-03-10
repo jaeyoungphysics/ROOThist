@@ -1,1 +1,1 @@
-# exciseROOT
+# exerciseROOT
